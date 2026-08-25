@@ -1,0 +1,7 @@
+*.key
+*.key.pub
+*.nonces.json
+__pycache__/
+.DS_Store
+keepalive.log
+*.pub.pem
